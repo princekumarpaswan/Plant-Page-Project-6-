@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Plant-Page (project-6)](https://genuine-concha-bb6e96.netlify.app/)
+## [Link to the Plant-Page (project-6)](https://plant-page.netlify.app/)
 
 
 ![Completed Website](plant.png)
@@ -10,7 +10,7 @@ By Prince Kr Paswan
 ## What I learned While creating this page?
 
 - Learnd to use css position  property.
-- learned anout icon and there possining.
+- learned anout icon and there positioning.
 - I learned how to add custom fonts.
 - I learned about image positioning and image hight.
 
